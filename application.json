@@ -5,6 +5,12 @@
   "unreadCommentThreads": 0,
   "color": "#F4FFDE",
   "slug": "my-first-application",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "evaluationVersion": 2,
   "createdAt": {
     "seconds": 1647105769,
